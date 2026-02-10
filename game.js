@@ -9,7 +9,7 @@ const PLAYER_SIZE = 30;
 const PLAYER_X = 120;
 const JUMP_VELOCITY = -620;
 const GRAVITY = 2100;
-const ALLOW_DOUBLE_JUMP = false;
+const ALLOW_DOUBLE_JUMP = true;
 
 const INITIAL_WORLD_SPEED = 320;
 const MAX_WORLD_SPEED = 650;

@@ -18,7 +18,7 @@ You control a square runner that jumps over incoming rectangular obstacles while
 
 ## Gameplay Notes
 
-- The player can only jump when grounded (double jump is disabled by default in code).
+- The player can jump once extra in the air (double jump): press `Space` a second time before landing.
 - Obstacles spawn at randomized intervals with a minimum spacing rule for fairness.
 - Collision uses AABB (Axis-Aligned Bounding Box) checks.
 - Score increases over time.
